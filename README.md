@@ -1,8 +1,4 @@
 # login-social
-Conectando sua aplicação utilizando redes sociais com o OpenID Connect e Spring Security.
-Follow
-
-responda em portugues
 
 Autenticação com OpenID Connect no Spring Boot com Facebook e Instagram
 
@@ -37,4 +33,4 @@ Iniciando
 
 Para executar a aplicação, basta clonar o repositório e executar a aplicação Spring Boot. Você precisará configurar as credenciais da API do Facebook e Instagram no arquivo application.properties.
 
-Este projeto é um ponto de partida para construir um sistema de autenticação mais abrangente usando Op
+Este projeto é um ponto de partida para construir um sistema de autenticação mais abrangente usando OpenID Connect e plataformas de mídia social.
