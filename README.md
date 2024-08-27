@@ -33,6 +33,7 @@ Este projeto demonstra uma aplicação Spring Boot que utiliza OpenID Connect pa
 
 Para executar a aplicação, siga os passos abaixo:
 
-1. Clone o repositório:
+1. Para executar a aplicação, basta clonar o repositório e executar a aplicação Spring Boot. Você precisará configurar as credenciais da API do Facebook e Instagram no arquivo application.properties.
+Este projeto é um ponto de partida para construir um sistema de autenticação mais abrangente usando OpenID Connect e plataformas de mídia social.Clone o repositório:
    ```bash
    git clone <url-do-repositorio>
